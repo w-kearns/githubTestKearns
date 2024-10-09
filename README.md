@@ -1,2 +1,2 @@
 # githubTestKearns
-Just a sample for README file.
+Just a sample of a README file.
